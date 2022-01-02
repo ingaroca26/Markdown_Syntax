@@ -70,3 +70,12 @@ An *italic*.
 ~~~
 
 An *italic*.
+
+## Blockquotes
+
+~~~markdown
+> A blockquote.
+
+~~~
+
+> A blockquote.
