@@ -127,6 +127,15 @@ An *italic*.
 
 ### Nested Unordered Lists
 
+~~~markdown
+- Item
+- Item
+  - Subitem
+  - Subitem
+- Item
+
+~~~
+
 - Item
 - Item
   - Subitem
