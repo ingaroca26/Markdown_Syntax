@@ -2,6 +2,8 @@
 
 ## Headings
 
+### Level 1
+
 ~~~markdown
 # Heading level 1
 
