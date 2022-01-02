@@ -43,3 +43,12 @@
 ##### Heading level 5
 
 ###### Heading level 6
+
+## Paragraphs
+
+~~~markdown
+A paragraph.
+
+~~~
+
+A paragraph.
