@@ -52,3 +52,12 @@ A paragraph.
 ~~~
 
 A paragraph.
+
+## Bolds
+
+~~~markdown
+A **bold**.
+
+~~~
+
+A **bold**.
