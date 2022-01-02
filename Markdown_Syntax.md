@@ -79,3 +79,33 @@ An *italic*.
 ~~~
 
 > A blockquote.
+
+## Lists
+
+### Ordered Lists
+
+1. First item
+2. Second item
+3. Third item
+
+### Nested Ordered Lists
+
+1. First item
+2. Second item
+   1. First subitem
+   2. Second subitem
+3. Third item
+
+### Unordered Lists
+
+- Item
+- Item
+- Item
+
+### Nested Unordered Lists
+
+- Item
+- Item
+  - Subitem
+  - Subitem
+- Item
