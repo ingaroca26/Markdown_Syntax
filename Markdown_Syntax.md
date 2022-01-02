@@ -61,3 +61,12 @@ A **bold**.
 ~~~
 
 A **bold**.
+
+## Italics
+
+~~~markdown
+An *italic*.
+
+~~~
+
+An *italic*.
