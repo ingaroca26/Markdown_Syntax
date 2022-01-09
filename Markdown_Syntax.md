@@ -141,3 +141,65 @@ An *italic*.
   - Subitem
   - Subitem
 - Item
+
+## Codes
+
+~~~markdown
+A `code`.
+
+~~~
+
+A `code`.
+
+## Horizontal Rules
+
+~~~markdown
+---
+
+~~~
+
+---
+
+## Links
+
+### Inline Links
+
+~~~markdown
+[Python](https://www.python.org/ "Welcome to Python.org")
+
+~~~
+
+[Python](https://www.python.org/ "Welcome to Python.org")
+
+### Reference-style Links
+
+~~~markdown
+[Python][Python]
+
+[Python]: https://www.python.org/ "Welcome to Python.org"
+
+~~~
+
+[Python][Python]
+
+[Python]: https://www.python.org/ "Welcome to Python.org"
+
+## URLs
+
+~~~markdown
+<https://www.python.org/>
+
+~~~
+
+<https://www.python.org/>
+
+## Emails
+
+~~~markdown
+<saulingaroca@email.com>
+
+~~~
+
+<saulingaroca@email.com>
+
+
