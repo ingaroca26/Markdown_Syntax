@@ -290,3 +290,72 @@ Hello, world!
 ```text
 Hello, world!
 ```
+
+### Shell
+
+~~~markdown
+```sh
+echo "Hello, world!"
+
+```
+
+~~~
+
+```sh
+echo "Hello, world!"
+
+```
+
+### C#
+
+~~~markdown
+```csharp
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, world!");
+            Console.ReadLine();
+        }
+    }
+}
+
+```
+
+~~~
+
+```csharp
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, world!");
+            Console.ReadLine();
+        }
+    }
+}
+
+```
+
+### SQL
+
+~~~markdown
+```sql
+SELECT 'Hello, world!';
+
+```
+
+~~~
+
+```sql
+SELECT 'Hello, world!';
+
+```
