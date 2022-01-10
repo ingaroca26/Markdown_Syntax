@@ -202,4 +202,91 @@ A `code`.
 
 <saulingaroca@email.com>
 
+## Images
 
+### Inline Images
+
+~~~markdown
+![Markdown Mark](https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/1664x1024.png "Markdown Mark")
+
+~~~
+
+![Markdown Mark](https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/1664x1024.png "Markdown Mark")
+
+### Reference-style Images
+
+~~~markdown
+![Markdown Mark][Markdown Mark]
+
+[Markdown Mark]: https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/1664x1024.png "Markdown Mark"
+
+~~~
+
+![Markdown Mark][Markdown Mark]
+
+[Markdown Mark]: https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/1664x1024.png "Markdown Mark"
+
+## Backslash Escapes
+
+~~~markdown
+\
+
+~~~
+
+\
+
+## HTML Tags
+
+~~~markdown
+<kbd>Ctrl</kbd> + <kbd>W</kbd>
+
+~~~
+
+<kbd>Ctrl</kbd> + <kbd>W</kbd>
+
+## Tables
+
+~~~markdown
+First Header | Second Header
+--- | ---
+Cell 1 | Cell 2
+Cell 3 | Cell 4
+
+~~~
+
+First Header | Second Header
+--- | ---
+Cell 1 | Cell 2
+Cell 3 | Cell 4
+
+## Syntax Highlightings
+
+### Python
+
+#### Python Codes
+
+~~~markdown
+```python
+print('Hello, world!')
+
+```
+
+~~~
+
+```python
+print('Hello, world!')
+
+```
+
+#### Python Terminals
+
+~~~markdown
+```text
+Hello, world!
+```
+
+~~~
+
+```text
+Hello, world!
+```
