@@ -359,3 +359,45 @@ SELECT 'Hello, world!';
 SELECT 'Hello, world!';
 
 ```
+
+## Footnotes
+
+~~~markdown
+A footnote[^1].
+
+[^1]: The footnote.
+
+~~~
+
+A footnote[^1].
+
+[^1]: The footnote.
+
+## Strikethroughs
+
+~~~markdown
+~~A strikethrough~~
+
+~~~
+
+~~A strikethrough~~
+
+## Task Lists
+
+~~~markdown
+- [x] A completed task.
+- [ ] An uncompleted task.
+
+~~~
+
+- [x] A completed task.
+- [ ] An uncompleted task.
+
+## Emoji Shortcodes
+
+~~~markdown
+:heart:
+
+~~~
+
+:heart:
